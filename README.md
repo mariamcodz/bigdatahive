@@ -14,8 +14,8 @@ stored in HDFS /HBase. Aside from Python kernel, Databricks offers an SQL notebo
 - Step 2: Import the datasets into databricks and create a new notebook.
 - Step 3: Use a shell command %sql then start writing queries to solve the tasks. 
 
-### <ins>Using the Datasets given and importing Databricks Notebook</ins>
-- [ ] Pull repo from into your desired location on your machine.
+### <ins>Importing datasets into Databricks Notebook</ins>
+- [ ] Clone the repo and save into your desired location on your machine.
 - [ ] Launch Databricks and create clusters 
 - [ ] Import the csv files in the repo into databricks by browsing files. 
 - [ ] Copy the commands in the text file to see the solution to the task.
